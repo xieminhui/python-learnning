@@ -6,3 +6,13 @@
 print("hello python")
 print("我是中文")
 
+
+print("comment")
+# add comment
+
+print("anther comment")
+
+"""
+add comment 
+"""
+
