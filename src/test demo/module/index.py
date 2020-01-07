@@ -1,4 +1,9 @@
 """
+@Date: 2020-01-06 14:03:23
+@LastEditors: xieminhui
+@LastEditTime: 2020-01-06 19:45:07
+"""
+"""
 @Date: 2020-01-06 10:33:50
 @LastEditors: xieminhui
 @LastEditTime: 2020-01-06 10:45:29
@@ -30,3 +35,5 @@ print(f"1 + 1 = {operation.addNum( 1, 1)}")
 print("from import start")
 
 print(f"2 * 3 * 4 = {multiplication(2, 3, 4)}")
+
+print(f"index.py {__name__}")
